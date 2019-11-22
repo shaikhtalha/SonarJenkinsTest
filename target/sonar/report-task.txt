@@ -1,0 +1,6 @@
+projectKey=com.codeusingjava:MavenSonar
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=com.codeusingjava%3AMavenSonar
+ceTaskId=AW6I455MzhGIkwpduB2C
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW6I455MzhGIkwpduB2C
